@@ -1,0 +1,25 @@
+h1{
+    font-family: 'Courier New',Courier,monospace;
+    font-weight: bold; 
+}
+
+h2{
+    font-family: 'Courier New',Courier,monospace;
+    font-weight: bold; 
+    color: blueviolet;
+}
+
+strong {
+    text-shadow: 5px 5px 5px grey;
+} 
+
+.writer{
+    font-style:5;
+    font-style: italic;
+    color: red;
+}
+
+.content {
+    font-size: 10;
+    font-family: 'Times New Roman', 'Times New Roman', Times, serif;
+}
